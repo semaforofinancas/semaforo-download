@@ -18,6 +18,8 @@ O **Semáforo** é um app de finanças pessoais que funciona como uma planilha m
 
 Sem integração com banco: você lança tudo manualmente e o app nunca pede senha de banco.
 
+> **Versão beta:** o app está em testes com um grupo pequeno. Se encontrar algum erro, conte pelo próprio app, em **Ajustes → Enviar sugestão**.
+
 <p align="center">
   <img src="como-funciona.png" alt="Verde: bateu as metas. Amarelo: não bateu as metas, mas não ficou no negativo. Vermelho: saiu mais dinheiro do que entrou." width="100%" />
 </p>
@@ -40,7 +42,7 @@ Sem integração com banco: você lança tudo manualmente e o app nunca pede sen
 3. Se o celular pedir, permita instalar apps desta origem.
 4. Toque em **Instalar**. Se o Play Protect avisar, toque em **Mais detalhes** → **Instalar mesmo assim**. O aviso aparece porque o app não vem da Play Store.
 
-**Para atualizar:** baixe de novo e instale por cima, sem desinstalar. Os seus dados continuam na sua conta.
+**Para atualizar:** quando houver versão nova, o app avisa ao abrir. Toque em **Atualizar**, baixe e instale por cima, sem desinstalar. Os seus dados continuam na sua conta.
 
 **Requisitos:** Android 7 ou mais novo, processador de 64 bits e serviços do Google (Play Store).
 
