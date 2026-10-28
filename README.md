@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center">
-  <a href="https://semaforo-01.web.app/baixar">📲 Baixar o Semáforo para Android</a>
+  <a href="https://semaforofinancas.web.app/baixar">📲 Baixar o Semáforo para Android</a>
 </h3>
 
 ---
@@ -37,7 +37,7 @@ Sem integração com banco: você lança tudo manualmente e o app nunca pede sen
 
 ## Como instalar
 
-1. No celular, abra **[semaforo-01.web.app/baixar](https://semaforo-01.web.app/baixar)** e toque em **Baixar para Android**.
+1. No celular, abra **[semaforofinancas.web.app/baixar](https://semaforofinancas.web.app/baixar)** e toque em **Baixar para Android**.
 2. Abra o arquivo baixado.
 3. Se o celular pedir, permita instalar apps desta origem.
 4. Toque em **Instalar**. Se o Play Protect avisar, toque em **Mais detalhes** → **Instalar mesmo assim**. O aviso aparece porque o app não vem da Play Store.
@@ -48,7 +48,7 @@ Sem integração com banco: você lança tudo manualmente e o app nunca pede sen
 
 ## Segurança
 
-Baixe o Semáforo somente pela [página oficial](https://semaforo-01.web.app/baixar) ou pelas [releases deste repositório](https://github.com/semaforofinancas/semaforo-download/releases).
+Baixe o Semáforo somente pela [página oficial](https://semaforofinancas.web.app/baixar) ou pelas [releases deste repositório](https://github.com/semaforofinancas/semaforo-download/releases).
 
 Todas as versões são assinadas com o mesmo certificado. Para conferir, use o `apksigner` do Android SDK:
 
@@ -65,7 +65,7 @@ O resultado precisa mostrar este SHA-256:
 ## Privacidade
 
 - Cada pessoa acessa só os próprios dados.
-- Você pode excluir a conta e todos os dados pelo próprio app, ou seguindo [estas instruções](https://semaforo-01.web.app/excluir-conta).
+- Você pode excluir a conta e todos os dados pelo próprio app, ou seguindo [estas instruções](https://semaforofinancas.web.app/excluir-conta).
 
 ## Contato
 
