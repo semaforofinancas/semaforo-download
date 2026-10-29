@@ -29,10 +29,11 @@ Sem integração com banco: você lança tudo manualmente e o app nunca pede sen
 - **Receitas, despesas, cartão e investimentos**, com compras parceladas e fatura no mês seguinte
 - **Semáforo do mês** com metas que você pode ajustar
 - **Visão anual** e histórico de qualquer mês
-- **Relatório em PDF** por mês, ano ou período
+- **Gráficos** de entradas e saídas do ano e de despesas por categoria do mês
+- **Relatório em PDF** por mês, ano ou período, com os gráficos
 - **Arrastar para marcar como paga ou excluir**, com opção de desfazer
 - **Copiar lançamentos do mês anterior**, para não digitar tudo de novo
-- **Temas claro, escuro e noturno**, com cor de destaque à sua escolha
+- **Temas claro, escuro, noturno e preto (AMOLED)**, com 8 cores de destaque
 - **Login com Google ou e-mail**: os dados ficam salvos na sua conta e aparecem em outro celular
 
 ## Como instalar
