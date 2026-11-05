@@ -12,6 +12,10 @@
   <a href="https://semaforofinancas.web.app/baixar">📲 Baixar o Semáforo para Android</a>
 </h3>
 
+<p align="center">
+  <a href="https://semaforofinancas.web.app">Conheça o app e teste o semáforo no site</a>
+</p>
+
 ---
 
 O **Semáforo** é um app de finanças pessoais que funciona como uma planilha mensal: você registra o que entra e o que sai, e a cor do mês mostra se as suas contas estão em dia.
@@ -24,16 +28,24 @@ Sem integração com banco: você lança tudo manualmente e o app nunca pede sen
   <img src="como-funciona.png" alt="Verde: bateu as metas. Amarelo: não bateu as metas, mas não ficou no negativo. Vermelho: saiu mais dinheiro do que entrou." width="100%" />
 </p>
 
+<p align="center">
+  <img src="telas.png" alt="Telas do app: resumo do mês, contas do mês, gráfico do ano e novo lançamento" width="100%" />
+</p>
+
 ## O que o app faz
 
 - **Receitas, despesas, cartão e investimentos**, com compras parceladas e fatura no mês seguinte
-- **Semáforo do mês** com metas que você pode ajustar
+- **Semáforo do mês** com metas que você pode ajustar e a dica do que falta para o verde
+- **Aba Início** com o resumo e os gráficos do mês atual
 - **Visão anual** e histórico de qualquer mês
 - **Gráficos** de entradas e saídas do ano e de despesas por categoria do mês
 - **Relatório em PDF** por mês, ano ou período, com os gráficos
 - **Arrastar para marcar como paga ou excluir**, com opção de desfazer
 - **Copiar lançamentos do mês anterior**, para não digitar tudo de novo
 - **Temas claro, escuro, noturno e preto (AMOLED)**, com 8 cores de destaque
+- **Bloqueio com digital ou senha do celular**, se você quiser
+- **Funciona offline**: o que você lança sem internet sincroniza quando a conexão volta
+- **Atualização dentro do app**: o app avisa da versão nova, baixa e abre a instalação
 - **Login com Google ou e-mail**: os dados ficam salvos na sua conta e aparecem em outro celular
 
 ## Como instalar
@@ -67,6 +79,10 @@ O resultado precisa mostrar este SHA-256:
 
 - Cada pessoa acessa só os próprios dados.
 - Você pode excluir a conta e todos os dados pelo próprio app, ou seguindo [estas instruções](https://semaforofinancas.web.app/excluir-conta).
+
+## Licença
+
+O Semáforo é gratuito para uso pessoal. Os arquivos de instalação não podem ser redistribuídos em outros sites ou lojas, nem modificados. Veja os termos completos em [LICENSE](LICENSE).
 
 ## Contato
 
