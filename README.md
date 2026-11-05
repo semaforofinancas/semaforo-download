@@ -43,7 +43,7 @@ Sem integração com banco: você lança tudo manualmente e o app nunca pede sen
 3. Se o celular pedir, permita instalar apps desta origem.
 4. Toque em **Instalar**. Se o Play Protect avisar, toque em **Mais detalhes** → **Instalar mesmo assim**. O aviso aparece porque o app não vem da Play Store.
 
-**Para atualizar:** quando houver versão nova, o app avisa ao abrir. Toque em **Atualizar**, baixe e instale por cima, sem desinstalar. Os seus dados continuam na sua conta.
+**Para atualizar:** quando houver versão nova, o app avisa ao abrir. Toque em **Atualizar**: o app baixa a versão nova e abre a instalação do Android. Na primeira vez, o Android pede para permitir que o Semáforo instale apps. Os seus dados continuam na sua conta. Na versão 1.4.0 ou anterior, baixe pela página e instale por cima, sem desinstalar.
 
 **Requisitos:** Android 7 ou mais novo, processador de 64 bits e serviços do Google (Play Store).
 
