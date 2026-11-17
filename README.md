@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Semáforo: seus gastos, receitas e investimentos em um só lugar" width="100%" />
+  <img src="banner.png" alt="Semáforo Finanças: seus gastos, receitas e investimentos em um só lugar" width="100%" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center">
-  <a href="https://semaforofinancas.web.app/baixar">📲 Baixar o Semáforo para Android</a>
+  <a href="https://semaforofinancas.web.app/baixar">📲 Baixar o Semáforo Finanças para Android</a>
 </h3>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-O **Semáforo** é um app de finanças pessoais que funciona como uma planilha mensal: você registra o que entra e o que sai, e a cor do mês mostra se as suas contas estão em dia.
+O **Semáforo Finanças** é um app de finanças pessoais que funciona como uma planilha mensal: você registra o que entra e o que sai, e a cor do mês mostra se as suas contas estão em dia.
 
 Sem integração com banco: você lança tudo manualmente e o app nunca pede senha de banco.
 
@@ -55,13 +55,13 @@ Sem integração com banco: você lança tudo manualmente e o app nunca pede sen
 3. Se o celular pedir, permita instalar apps desta origem.
 4. Toque em **Instalar**. Se o Play Protect avisar, toque em **Mais detalhes** → **Instalar mesmo assim**. O aviso aparece porque o app não vem da Play Store.
 
-**Para atualizar:** quando houver versão nova, o app avisa ao abrir. Toque em **Atualizar**: o app baixa a versão nova e abre a instalação do Android. Na primeira vez, o Android pede para permitir que o Semáforo instale apps. Os seus dados continuam na sua conta. Na versão 1.4.0 ou anterior, baixe pela página e instale por cima, sem desinstalar.
+**Para atualizar:** quando houver versão nova, o app avisa ao abrir. Toque em **Atualizar**: o app baixa a versão nova e abre a instalação do Android. Na primeira vez, o Android pede para permitir que o Semáforo Finanças instale apps. Os seus dados continuam na sua conta. Na versão 1.4.0 ou anterior, baixe pela página e instale por cima, sem desinstalar.
 
 **Requisitos:** Android 7 ou mais novo, processador de 64 bits e serviços do Google (Play Store).
 
 ## Segurança
 
-Baixe o Semáforo somente pela [página oficial](https://semaforofinancas.web.app/baixar) ou pelas [releases deste repositório](https://github.com/semaforofinancas/semaforo-download/releases).
+Baixe o Semáforo Finanças somente pela [página oficial](https://semaforofinancas.web.app/baixar) ou pelas [releases deste repositório](https://github.com/semaforofinancas/semaforo-download/releases).
 
 Todas as versões são assinadas com o mesmo certificado. Para conferir, use o `apksigner` do Android SDK:
 
@@ -82,7 +82,7 @@ O resultado precisa mostrar este SHA-256:
 
 ## Licença
 
-O Semáforo é gratuito para uso pessoal. Os arquivos de instalação não podem ser redistribuídos em outros sites ou lojas, nem modificados. Veja os termos completos em [LICENSE](LICENSE).
+O Semáforo Finanças é gratuito para uso pessoal. Os arquivos de instalação não podem ser redistribuídos em outros sites ou lojas, nem modificados. Veja os termos completos em [LICENSE](LICENSE).
 
 ## Contato
 
