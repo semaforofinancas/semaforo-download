@@ -1,24 +1,26 @@
 <p align="center">
-  <img src="banner.png" alt="Semáforo Finanças: seus gastos, receitas e investimentos em um só lugar" width="100%" />
+  <img src="banner.png" alt="Sinaleiro, contas do mês: seus gastos, receitas e investimentos em um só lugar" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/semaforofinancas/semaforo-download/releases/latest"><img src="https://img.shields.io/github/v/release/semaforofinancas/semaforo-download?label=vers%C3%A3o&color=43A047" alt="Versão mais recente" /></a>
-  <a href="https://github.com/semaforofinancas/semaforo-download/releases"><img src="https://img.shields.io/github/downloads/semaforofinancas/semaforo-download/total?label=downloads&color=1F2933" alt="Downloads" /></a>
+  <a href="https://github.com/sinaleiro-contas/sinaleiro-download/releases/latest"><img src="https://img.shields.io/github/v/release/sinaleiro-contas/sinaleiro-download?label=vers%C3%A3o&color=43A047" alt="Versão mais recente" /></a>
+  <a href="https://github.com/sinaleiro-contas/sinaleiro-download/releases"><img src="https://img.shields.io/github/downloads/sinaleiro-contas/sinaleiro-download/total?label=downloads&color=1F2933" alt="Downloads" /></a>
   <img src="https://img.shields.io/badge/Android-7%2B-3DDC84?logo=android&logoColor=white" alt="Android 7 ou mais novo" />
 </p>
 
 <h3 align="center">
-  <a href="https://semaforofinancas.web.app/baixar">📲 Baixar o Semáforo Finanças para Android</a>
+  <a href="https://sinaleiro-contas.web.app/baixar">📲 Baixar o Sinaleiro para Android</a>
 </h3>
 
 <p align="center">
-  <a href="https://semaforofinancas.web.app">Conheça o app e teste o semáforo no site</a>
+  <a href="https://sinaleiro-contas.web.app">Conheça o app e teste o semáforo no site</a>
 </p>
 
 ---
 
-O **Semáforo Finanças** é um app de finanças pessoais que funciona como uma planilha mensal: você registra o que entra e o que sai, e a cor do mês mostra se as suas contas estão em dia.
+> **O Semáforo Finanças agora se chama Sinaleiro.** Se você usa o app antigo, ele mesmo avisa e instala o Sinaleiro. Depois, abra o Sinaleiro, entre com a mesma conta (os seus dados continuam lá) e desinstale o Semáforo Finanças.
+
+O **Sinaleiro** é um app de finanças pessoais que funciona como uma planilha mensal: você registra o que entra e o que sai, e a cor do mês mostra se as suas contas estão em dia.
 
 Sem integração com banco: você lança tudo manualmente e o app nunca pede senha de banco.
 
@@ -50,23 +52,23 @@ Sem integração com banco: você lança tudo manualmente e o app nunca pede sen
 
 ## Como instalar
 
-1. No celular, abra **[semaforofinancas.web.app/baixar](https://semaforofinancas.web.app/baixar)** e toque em **Baixar para Android**.
+1. No celular, abra **[sinaleiro-contas.web.app/baixar](https://sinaleiro-contas.web.app/baixar)** e toque em **Baixar para Android**.
 2. Abra o arquivo baixado.
 3. Se o celular pedir, permita instalar apps desta origem.
 4. Toque em **Instalar**. Se o Play Protect avisar, toque em **Mais detalhes** → **Instalar mesmo assim**. O aviso aparece porque o app não vem da Play Store.
 
-**Para atualizar:** quando houver versão nova, o app avisa ao abrir. Toque em **Atualizar**: o app baixa a versão nova e abre a instalação do Android. Na primeira vez, o Android pede para permitir que o Semáforo Finanças instale apps. Os seus dados continuam na sua conta. Na versão 1.4.0 ou anterior, baixe pela página e instale por cima, sem desinstalar.
+**Para atualizar:** quando houver versão nova, o app avisa ao abrir. Toque em **Atualizar**: o app baixa a versão nova e abre a instalação do Android. Na primeira vez, o Android pede para permitir que o Sinaleiro instale apps. Os seus dados continuam na sua conta. Na versão 1.4.0 ou anterior, baixe pela página e instale por cima, sem desinstalar.
 
 **Requisitos:** Android 7 ou mais novo, processador de 64 bits e serviços do Google (Play Store).
 
 ## Segurança
 
-Baixe o Semáforo Finanças somente pela [página oficial](https://semaforofinancas.web.app/baixar) ou pelas [releases deste repositório](https://github.com/semaforofinancas/semaforo-download/releases).
+Baixe o Sinaleiro somente pela [página oficial](https://sinaleiro-contas.web.app/baixar) ou pelas [releases deste repositório](https://github.com/sinaleiro-contas/sinaleiro-download/releases).
 
 Todas as versões são assinadas com o mesmo certificado. Para conferir, use o `apksigner` do Android SDK:
 
 ```bash
-apksigner verify --print-certs semaforo.apk
+apksigner verify --print-certs sinaleiro.apk
 ```
 
 O resultado precisa mostrar este SHA-256:
@@ -78,11 +80,11 @@ O resultado precisa mostrar este SHA-256:
 ## Privacidade
 
 - Cada pessoa acessa só os próprios dados.
-- Você pode excluir a conta e todos os dados pelo próprio app, ou seguindo [estas instruções](https://semaforofinancas.web.app/excluir-conta).
+- Você pode excluir a conta e todos os dados pelo próprio app, ou seguindo [estas instruções](https://sinaleiro-contas.web.app/excluir-conta).
 
 ## Licença
 
-O Semáforo Finanças é gratuito para uso pessoal. Os arquivos de instalação não podem ser redistribuídos em outros sites ou lojas, nem modificados. Veja os termos completos em [LICENSE](LICENSE).
+O Sinaleiro é gratuito para uso pessoal. Os arquivos de instalação não podem ser redistribuídos em outros sites ou lojas, nem modificados. Veja os termos completos em [LICENSE](LICENSE).
 
 ## Contato
 
