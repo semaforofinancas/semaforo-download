@@ -13,7 +13,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://sinaleiro-contas.web.app">Conheça o app e teste o semáforo no site</a>
+  <a href="https://sinaleiro-contas.web.app">Conheça o app e teste as cores no site</a>
 </p>
 
 ---
@@ -37,7 +37,7 @@ Sem integração com banco: você lança tudo manualmente e o app nunca pede sen
 ## O que o app faz
 
 - **Receitas, despesas, cartão e investimentos**, com compras parceladas e fatura no mês seguinte
-- **Semáforo do mês** com metas que você pode ajustar e a dica do que falta para o verde
+- **Cor do mês** (verde, amarelo ou vermelho) com metas que você pode ajustar e a dica do que falta para o verde
 - **Aba Início** com o resumo e os gráficos do mês atual
 - **Visão anual** e histórico de qualquer mês
 - **Gráficos** de entradas e saídas do ano e de despesas por categoria do mês
